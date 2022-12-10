@@ -33,4 +33,4 @@ The project uses a ESP8266 microcontroller so clone the repository and open the 
 
 ## Contributor
 
-- [Github](https://github.com/Manish1803) Manish Patil
+- [Manish Patil](https://github.com/Manish1803)

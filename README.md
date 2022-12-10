@@ -29,3 +29,8 @@ The project uses a ESP8266 microcontroller so clone the repository and open the 
     
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deven-patil-067530209/)
+
+
+## Contributor
+
+- [Manish Patil](https://github.com/Manish1803)

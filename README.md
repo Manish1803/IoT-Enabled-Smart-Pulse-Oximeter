@@ -1,6 +1,8 @@
 
 # IoT Enabled Smart Pulse Oximeter
 
+This was our First-Year Engineering Project Based Learning project.
+
 In this project, we made a Smart Health Monitoring
 System that can measure SpO2 (percentage of
 peripheral oxygen in the blood) and heart rate in BPM
